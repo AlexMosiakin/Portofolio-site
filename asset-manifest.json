@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/Portofolio-site/static/js/main.09a693b8.chunk.js",
+    "main.js.map": "/Portofolio-site/static/js/main.09a693b8.chunk.js.map",
+    "runtime-main.js": "/Portofolio-site/static/js/runtime-main.53debbbb.js",
+    "runtime-main.js.map": "/Portofolio-site/static/js/runtime-main.53debbbb.js.map",
+    "static/js/2.d7b5724d.chunk.js": "/Portofolio-site/static/js/2.d7b5724d.chunk.js",
+    "static/js/2.d7b5724d.chunk.js.map": "/Portofolio-site/static/js/2.d7b5724d.chunk.js.map",
+    "static/js/3.e899ba28.chunk.js": "/Portofolio-site/static/js/3.e899ba28.chunk.js",
+    "static/js/3.e899ba28.chunk.js.map": "/Portofolio-site/static/js/3.e899ba28.chunk.js.map",
+    "index.html": "/Portofolio-site/index.html",
+    "static/js/2.d7b5724d.chunk.js.LICENSE.txt": "/Portofolio-site/static/js/2.d7b5724d.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/Portofolio-site/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/Portofolio-site/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.4b7cde7e.svg": "/Portofolio-site/static/media/clock.4b7cde7e.svg",
+    "static/media/diaphragm.db801491.svg": "/Portofolio-site/static/media/diaphragm.db801491.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/Portofolio-site/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/Portofolio-site/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home1.9836de69.png": "/Portofolio-site/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/Portofolio-site/static/media/home2.a65a4256.png",
+    "static/media/money.72da7c48.svg": "/Portofolio-site/static/media/money.72da7c48.svg",
+    "static/media/teamwork.aa71db2e.svg": "/Portofolio-site/static/media/teamwork.aa71db2e.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/Portofolio-site/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/Portofolio-site/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53debbbb.js",
+    "static/js/2.d7b5724d.chunk.js",
+    "static/js/main.09a693b8.chunk.js"
+  ]
+}
