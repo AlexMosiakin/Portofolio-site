@@ -2,6 +2,10 @@ import React,{useState,useEffect} from 'react';
 import styled from 'styled-components';
 import {useHistory} from 'react-router-dom';
 import {MovieState} from '../MovieState';
+//Animation
+import {motion} from 'framer-motion';
+import {pageAnimation} from '../animation';
+import ScrollTop from '../components/ScrollTop';
 
 const MovieDetail = () => {
     const history = useHistory();
@@ -18,7 +22,7 @@ const MovieDetail = () => {
     return(
     <>
     {movie && (
-    <Details>
+    <Details exit="exit" variants={pageAnimation} initial="hidden" animate="show">
         <HeadLine>
             <h2>{movie.title}</h2>
             <img src={movie.mainImg} alt="movie"/>
@@ -31,13 +35,14 @@ const MovieDetail = () => {
         <ImageDisplay>
             <img src={movie.secondaryImg} alt="movie"/>
         </ImageDisplay>
+        <ScrollTop/>
     </Details>
     )}
     </>
     );
 }
 
-const Details = styled.div`
+const Details = styled(motion.div)`
     color:white;
 `;
 
